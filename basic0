@@ -1,0 +1,27 @@
+Script started on Thu May 29 15:11:26 2003
+chihchun@chaos:~$ telnet OSs.Free-BSD.Org echo
+Trying 140.123.20.201...
+Connected to OSs.Free-BSD.Org.
+Escape character is '^]'.
+
+_ m ? - m i F 2 5 ) I I ( f p > L M b _ 
+p Y M J , & q A % " H u z B S A C @ w l 
+U E T m | } w v 1 c R e y c c 2 ! # D 9 
+O n s $ d Q i ] ' C 9 : b b a 7 - t ` 9 
+d x @ p 3 ' . f J b D v = H b 7 | s @ 4 
+1 : 6 L P z O ! S t M [ $ F A \ " e 0 Z 
+. y ? 8 6 @ d | F m T n b p ] V * E Z i 
+
+Enter Password: _M|i56J8
+
+Yes!! My Lord...
+
+The Pa55w0rd of basic1 is : [1;41;36m Welcome! [0m
+
+Connection closed by foreign host.
+chihchun@chaos:~$ ...
+bash: ...: command not found
+chihchun@chaos:~$ bye
+bash: bye: command not found
+chihchun@chaos:~$ 
+Script done on Thu May 29 15:12:10 2003

